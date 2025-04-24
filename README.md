@@ -1,2 +1,3 @@
 # Authen-AuthoServer
-# GoLang + Redis + Mysql + Docker + JWT
+GoLang + Redis + Mysql + Docker + JWT
+CI/CD implementation
